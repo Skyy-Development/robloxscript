@@ -1,5 +1,5 @@
 return {
 	version = '2.2a',
-	updated = '6/10/22',
+	updated = '28/11/22',
 	message = 'Added themes menu!'
 }
