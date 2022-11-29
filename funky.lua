@@ -685,8 +685,8 @@ Groups.Misc = Tabs.Miscellaneous:AddRightGroupbox('Miscellaneous')
     Groups.Misc:AddDivider()
     Groups.Misc:AddButton('Unload script', function() pcall(shared._unload) end)
     Groups.Misc:AddButton('Tiktok', function()
-        if pcall(setclipboard, "https://wally.cool/discord") then
-            UI:Notify('Successfully copied discord link to your clipboard!', 5)
+        if pcall(setclipboard, "https://www.tiktok.com/@MS4wLjABAAAAf13AsSckZP6WMhUeAcAEGOIjDbLQp3JL62cQ-CZrpLcPYfMU8YXBihqzRpGbGHWq") then
+            UI:Notify('Successfully copied tiktok link to your clipboard!', 5)
         end
     end)
 
