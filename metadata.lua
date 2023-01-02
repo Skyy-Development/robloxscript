@@ -1,5 +1,5 @@
 return {
 	version = '2.9a',
-	updated = '29/11/22',
+	updated = '2/2/23',
 	message = 'Added sick 100%'
 }
